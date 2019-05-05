@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Dan</string>
+    <string name="txt_caption">Dan</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Dan enjoys creating things from his imagination. He has a plethora of
+        stories, novels, and games he has designed written. At this current moment he is working
+        towards multiple AAS degrees that would help him to see his imagination take shape into a
+        form other people can enjoy.</string>
+</resources>
